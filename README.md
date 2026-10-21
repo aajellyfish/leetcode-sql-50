@@ -9,3 +9,7 @@ My solutions to LeetCode SQL 50
 | 595 | Big Countries | Easy | [sql](01_select/595_big_countries.sql) |
 | 1148 | Article Views I | Easy | [sql](01_select/1148_article_views_l.sql) |
 | 1757 | Recyclable and Low Fat Products | Easy | [sql](01_select/1757_recyclable_and_low_fat_products.sql) |
+| 1683 | Invalid Tweets | Easy | [sql](01_select/1683_invalid_tweets.sql) |
+| 1378 | Replace Employee ID With The Unique Identifier | Easy | [sql](02_basic_joins/1378_replace_employee_id_with_the_unique_identifier.sql) |
+| 1068 | Product Sales Analysis I | Easy | [sql](02_basic_joins/1068_product_sales_analysis.sql) |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | [sql](02_basic_joins/1581_customer_who_visited_but_did_not_make_any_transactions.sql) |

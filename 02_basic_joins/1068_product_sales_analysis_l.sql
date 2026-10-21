@@ -1,0 +1,9 @@
+-- LeetCode 1068. Product Sales Analysis I
+-- Difficulty: Easy
+-- Topic: Select
+-- Link: https://leetcode.com/problems/product-sales-analysis-i/
+
+SELECT product_name, year, price
+FROM Sales 
+INNER JOIN Product
+   ON Sales.product_id = Product.product_id;
