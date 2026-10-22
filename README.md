@@ -13,3 +13,7 @@ My solutions to LeetCode SQL 50
 | 1378 | Replace Employee ID With The Unique Identifier | Easy | [sql](02_basic_joins/1378_replace_employee_id_with_the_unique_identifier.sql) |
 | 1068 | Product Sales Analysis I | Easy | [sql](02_basic_joins/1068_product_sales_analysis.sql) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | Easy | [sql](02_basic_joins/1581_customer_who_visited_but_did_not_make_any_transactions.sql) |
+| 197 | Rising Temperature | Easy | [sql](02_basic_joins/197_rising_temperature.sql) |
+| 1661 | Average Time of Process per Machine | Easy | [sql](02_basic_joins/1661_average_time_of_process_per_machine.sql) |
+| 577 | Employee Bonus | Easy | [sql](02_basic_joins/577_employee_bonus.sql) |
+| 1280 | Students and Examinations | Easy | [sql](02_basic_joins/1280_students_and_examinations.sql) |
