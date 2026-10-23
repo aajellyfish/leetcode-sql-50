@@ -1,6 +1,6 @@
 -- LeetCode 1068. Product Sales Analysis I
 -- Difficulty: Easy
--- Topic: Select
+-- Topic: Basic Join
 -- Link: https://leetcode.com/problems/product-sales-analysis-i/
 
 SELECT product_name, year, price

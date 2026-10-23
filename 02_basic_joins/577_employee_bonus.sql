@@ -1,6 +1,6 @@
 -- LeetCode 577. Employee Bonus
 -- Difficulty: Easy
--- Topic: Select
+-- Topic: Basic Join
 -- Link: https://leetcode.com/problems/employee-bonus/
 
 SELECT e.name, b.bonus

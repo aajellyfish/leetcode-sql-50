@@ -1,6 +1,6 @@
 -- LeetCode 1661. Average Time of Process Per Machine
 -- Difficulty: Easy
--- Topic: Select
+-- Topic: Basic Join
 -- Link: https://leetcode.com/problems/average-time-of-process-per-machine/
 
 SELECT a1.machine_id, ROUND(AVG(a2.timestamp - a1.timestamp),3) AS processing_time

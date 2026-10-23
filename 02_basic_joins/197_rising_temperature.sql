@@ -1,6 +1,6 @@
 -- LeetCode 1978. Rising Temperature
 -- Difficulty: Easy
--- Topic: Select
+-- Topic: Basic Join
 -- Link: https://leetcode.com/problems/rising-temperature/
 
 SELECT w1.id

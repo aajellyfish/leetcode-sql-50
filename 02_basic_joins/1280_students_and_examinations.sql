@@ -1,6 +1,6 @@
 -- LeetCode 1280. Students and Examinations
 -- Difficulty: Easy
--- Topic: Select
+-- Topic: Basic Join
 -- Link: https://leetcode.com/problems/students-and-examinations/
 
 SELECT st.student_id, st.student_name, sub.subject_name, COUNT(e.student_id) AS attended_exams
