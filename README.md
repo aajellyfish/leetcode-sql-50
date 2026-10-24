@@ -21,3 +21,7 @@ My solutions to LeetCode SQL 50
 | 1934 | Confirmation Rate | Medium | [sql](02_basic_joins/1934_confirmation_rate.sql) |
 | 620 | Not Boring Movies | Easy | [sql](03_basic_aggregate_functions/620_not_boring_movies.sql) |
 | 1251 | Average Selling Price | Easy | [sql](03_basic_aggregate_functions/1251_average_selling_price.sql) |
+| 1075 | Project Employees I | Easy | [sql](03_basic_aggregate_functions/1075_project_employees_i.sql) |
+| 1663 | Percentage of Users Attended a Contest | Easy | [sql](03_basic_aggregate_functions/1663_percentage_of_users_attended_a_contest.sql) |
+| 1211 | Queries Quality and Percentage | Easy | [sql](03_basic_aggregate_functions/1211_queries_quality_and_percentage.sql) |
+| 1193 | Monthly Transactions I | Medium | [sql](03_basic_aggregate_functions/1193_monthly_transactions_i.sql) |
