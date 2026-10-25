@@ -25,3 +25,7 @@ My solutions to LeetCode SQL 50
 | 1663 | Percentage of Users Attended a Contest | Easy | [sql](03_basic_aggregate_functions/1663_percentage_of_users_attended_a_contest.sql) |
 | 1211 | Queries Quality and Percentage | Easy | [sql](03_basic_aggregate_functions/1211_queries_quality_and_percentage.sql) |
 | 1193 | Monthly Transactions I | Medium | [sql](03_basic_aggregate_functions/1193_monthly_transactions_i.sql) |
+| 1174 | Immediate Food Delivery II | Medium | [sql](03_basic_aggregate_functions/1174_immediate_food_delivery_ii.sql) |
+| 550 | Game Play Analysis IV | Medium | [sql](03_basic_aggregate_functions/550_game_play_analysis_iv.sql) |
+| 2356 | Number of Unique Subjects Taught by Each Teacher | Easy | [sql](04_sorting_and_grouping/2356_number_of_unique_subjects_taught_by_each_teacher.sql) |
+| 1141 | User Activity for the Past 30 Days | Easy | [sql](04_sorting_and_grouping/1141_user_activity_for_the_past_30_days_i.sql) |
