@@ -29,3 +29,7 @@ My solutions to LeetCode SQL 50
 | 550 | Game Play Analysis IV | Medium | [sql](03_basic_aggregate_functions/550_game_play_analysis_iv.sql) |
 | 2356 | Number of Unique Subjects Taught by Each Teacher | Easy | [sql](04_sorting_and_grouping/2356_number_of_unique_subjects_taught_by_each_teacher.sql) |
 | 1141 | User Activity for the Past 30 Days | Easy | [sql](04_sorting_and_grouping/1141_user_activity_for_the_past_30_days_i.sql) |
+| 1070 | Product Sales Analysis III | Medium | [sql](04_sorting_and_grouping/1070_product_sales_analysis_iii.sql) |
+| 596 | Classes With At Least 5 Students | Easy | [sql](04_sorting_and_grouping/596_classes_with_at_least_5_students.sql) |
+| 1729 | Find Followers Count | Easy | [sql](04_sorting_and_grouping/1729_find_followers_count.sql) |
+| 619 | Biggest Single Number | Easy | [sql](04_sorting_and_grouping/619_biggest_single_number.sql) |
