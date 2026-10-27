@@ -33,3 +33,7 @@ My solutions to LeetCode SQL 50
 | 596 | Classes With At Least 5 Students | Easy | [sql](04_sorting_and_grouping/596_classes_with_at_least_5_students.sql) |
 | 1729 | Find Followers Count | Easy | [sql](04_sorting_and_grouping/1729_find_followers_count.sql) |
 | 619 | Biggest Single Number | Easy | [sql](04_sorting_and_grouping/619_biggest_single_number.sql) |
+| 1045 | Customers Who Bought All Products | Medium | [sql](04_sorting_and_grouping/1045_customers_who_bought_all_products.sql) |
+| 1731 | The Number of Employees Which Report to Each Employee | Easy | [sql](05_advanced_select_and_joins/1731_the_number_of_employees_which_report_to_each_employee.sql) |
+| 1789 | Primary Department for Each Employee | Easy | [sql](05_advanced_select_and_joins/1789_primary_department_for_each_employee.sql) |
+| 610 | Triangle Judgement | Easy | [sql](05_advanced_select_and_joins/610_triangle_judgement.sql) |
