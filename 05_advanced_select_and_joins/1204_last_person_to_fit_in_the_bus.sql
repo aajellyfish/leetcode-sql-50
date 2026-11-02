@@ -1,0 +1,13 @@
+-- LeetCode 1204. Last Person to Fit in the Bus
+-- Difficulty: Medium
+-- Topic: Advanced Select and Joins
+-- Link: https://leetcode.com/problems/last-person-to-fit-in-the-bus/
+
+SELECT person_name
+FROM ( SELECT person_name, turn, SUM(weight) OVER (ORDER BY turn) AS total_weight
+    FROM Queue
+) AS t_weight
+WHERE total_weight <= 1000
+ORDER BY turn DESC
+LIMIT 1;
+

@@ -37,3 +37,7 @@ My solutions to LeetCode SQL 50
 | 1731 | The Number of Employees Which Report to Each Employee | Easy | [sql](05_advanced_select_and_joins/1731_the_number_of_employees_which_report_to_each_employee.sql) |
 | 1789 | Primary Department for Each Employee | Easy | [sql](05_advanced_select_and_joins/1789_primary_department_for_each_employee.sql) |
 | 610 | Triangle Judgement | Easy | [sql](05_advanced_select_and_joins/610_triangle_judgement.sql) |
+| 180 | Consecutive Numbers | Medium | [sql](05_advanced_select_and_joins/180_consecutive_numbers.sql) |
+| 1164 | Product Price at a Given Date | Medium | [sql](05_advanced_select_and_joins/1164_product_price_at_a_given_date.sql) |
+| 1204 | Last Person to Fit in the Bus | Medium | [sql](05_advanced_select_and_joins/1164_product_price_at_a_given_date.sql) |
+| 1907 | Count Salary Categories | Medium | [sql](05_advanced_select_and_joins/1907_count_salary_categories.sql) |
