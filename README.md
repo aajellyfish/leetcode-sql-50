@@ -41,3 +41,7 @@ My solutions to LeetCode SQL 50
 | 1164 | Product Price at a Given Date | Medium | [sql](05_advanced_select_and_joins/1164_product_price_at_a_given_date.sql) |
 | 1204 | Last Person to Fit in the Bus | Medium | [sql](05_advanced_select_and_joins/1164_product_price_at_a_given_date.sql) |
 | 1907 | Count Salary Categories | Medium | [sql](05_advanced_select_and_joins/1907_count_salary_categories.sql) |
+| 1978 | Employees Whose Manager Left the Company | Easy | [sql](06_subqueries/1978_employees_whose_manager_left_the_company.sql) |
+| 626 | Exchange Seats | Medium | [sql](06_subqueries/626_exchange_seats.sql) |
+| 1341 | Moving Rating | Medium | [sql](06_subqueries/1341_movie_rating.sql) |
+| 1321 | Restaurant Growth | Medium | [sql](06_subqueries/1321_restaurant_growth.sql) |
