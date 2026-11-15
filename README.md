@@ -45,3 +45,7 @@ My solutions to LeetCode SQL 50
 | 626 | Exchange Seats | Medium | [sql](06_subqueries/626_exchange_seats.sql) |
 | 1341 | Moving Rating | Medium | [sql](06_subqueries/1341_movie_rating.sql) |
 | 1321 | Restaurant Growth | Medium | [sql](06_subqueries/1321_restaurant_growth.sql) |
+| 602 | Friend Requests II: Who Has the Most Friends | Medium | [sql](06_subqueries/602_friend_requests_ii_who_has_the_most_friends.sql) |
+| 585 | Investments in 2016 | Medium | [sql](06_subqueries/585_investments_in_2016.sql) |
+| 185 | Department Top Three Salaries | Hard | [sql](06_subqueries/185_department_top_three_salaries.sql) |
+| 1667 | Fix Names in a Table | Easy | [sql](07_advanced_string_functions_regex_clause/1667_fix_names_in_a_table.sql) |
